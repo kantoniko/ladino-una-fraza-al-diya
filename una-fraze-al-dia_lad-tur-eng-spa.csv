@@ -9,16 +9,16 @@ audio,filename,Ladino,Español,Türkçe,English
 2.08.-tengo-ser.ogg,8.-tengo-ser.jpeg,Tengo ser; dame una kupa de agua por favor.,Tengo sed; dame un caso de agua por favor.,Susadım; bana bir bardak su ver lütfen.,I'm thirsty; give me a glass of water please.
 2.09.-el-telefon-esta-sonando.ogg,9.-el-telefon-esta-sonando.jpeg,El telefon esta sonando.,El teléfono está sonando.,Telefon çalıyor.,The phone is ringing.
 2.10.-no-komas-muncho-pan.ogg,10.-no-komas-muncho-pan.jpeg,No komas muncho pan!,¡No comas mucho pan!,Çok ekmek yeme!,Don't eat too much bread!
-,11.-mi-ermano-esta-hazino.jpeg,Mi ermano esta hazino.,Mi hermano está enfermo.,(Erkek) Kardeşim hasta.,My brother is ill.
-,12.-mi-mujer-esta-prenyada.jpeg,Mi mujer esta prenyada.,Mi mujer está embarasada.,Karım hamile.,My wife is pregnant.
-,13.-mi-vizina-esta-mirando-por-la-ventana.jpeg,Mi vizina esta mirando por la ventana.,Mi vecina esta mirando por la ventana.,Komşum (kadın) pencereden bakıyor.,My neighbor is looking out of the window.
+2.11.-mi-ermano-esta-hazino.ogg,11.-mi-ermano-esta-hazino.jpeg,Mi ermano esta hazino.,Mi hermano está enfermo.,(Erkek) Kardeşim hasta.,My brother is ill.
+2.12.-mi-mujer-esta-prenyada.ogg,12.-mi-mujer-esta-prenyada.jpeg,Mi mujer esta prenyada.,Mi mujer está embarasada.,Karım hamile.,My wife is pregnant.
+2.13.-mi-vizina-esta-mirando-por-la-ventana.ogg,13.-mi-vizina-esta-mirando-por-la-ventana.jpeg,Mi vizina esta mirando por la ventana.,Mi vecina esta mirando por la ventana.,Komşum (kadın) pencereden bakıyor.,My neighbor is looking out of the window.
 ,14.-tengo-kalor.jpeg,Tengo kalor; esto sudando.,Tengo calor; estoy sudando.,Çok sıcak; terliyorum.,I'm hot; I'm sweating.
-,15-mi-ija-bive-en-paris.jpeg,Mi ija bive en Paris.,Mi hija vive en Paris.,Kızım Paris'te yaşıyor.,My daughter lives in Paris.
-,16-me-plazen-filmos-de-amor-300x300.jpeg,Me plazen filmos de amor.,Me gustan películas de amor.,Aşk filmleri hoşuma gider.,I like romantic films.
-,17-la-validja-esta-muy-pezgada-300x300.jpeg,La validja esta muy pezgada. ,La maleta está muy pesada.,Valiz çok ağır.,The suitcase is very heavy.
-,18.los-elevos-estan-estudiando.jpeg,Los elevos estan estudiando.,Los estudiantes están estudiando.,Öğrenciler dans çalışıyor.,The students are studying.
-,19.-tu-kaza-esta-muy-leshos.jpeg,Tu kaza esta muy leshos.,Tu casa está muy lejos.,Evin çok uzakta.,Your house is very far away.
-,20.-tu-madre-giza-muy-bueno.jpeg,Tu madre giza muy bueno.,Tu madre cocina muy bien.,Annen çok güzel yemek pişirir.,Your mother cooks very well.
+3.15-mi-ija-bive-en-paris.ogg,15-mi-ija-bive-en-paris.jpeg,Mi ija bive en Paris.,Mi hija vive en Paris.,Kızım Paris'te yaşıyor.,My daughter lives in Paris.
+3.16-me-plazen-filmos-de-amor.ogg,16-me-plazen-filmos-de-amor-300x300.jpeg,Me plazen filmos de amor.,Me gustan películas de amor.,Aşk filmleri hoşuma gider.,I like romantic films.
+3.17-la-validja-esta-muy-pezgada.ogg,17-la-validja-esta-muy-pezgada-300x300.jpeg,La validja esta muy pezgada. ,La maleta está muy pesada.,Valiz çok ağır.,The suitcase is very heavy.
+3.18.-los-elevos-estan-estudiando.ogg,18.los-elevos-estan-estudiando.jpeg,Los elevos estan estudiando.,Los estudiantes están estudiando.,Öğrenciler dans çalışıyor.,The students are studying.
+3.19.-tu-kaza-esta-muy-leshos.ogg,19.-tu-kaza-esta-muy-leshos.jpeg,Tu kaza esta muy leshos.,Tu casa está muy lejos.,Evin çok uzakta.,Your house is very far away.
+3.20.-tu-madre-giza-muy-bueno.ogg,20.-tu-madre-giza-muy-bueno.jpeg,Tu madre giza muy bueno.,Tu madre cocina muy bien.,Annen çok güzel yemek pişirir.,Your mother cooks very well.
 21-los-amigos-van-a-vinir-esta-noche.ogg,21-los-amigos-van-a-vinir-esta-noche.jpeg,Los amigos van a vinir esta noche. Ven i tu.,"Los amigos vendrán esta noche. ¡Ven tú, también!",Bu akşam arkadaşlar gelecek. Sen de gel.,"(Some) friends are coming tonight. Why don't you come, too?"
 22.-no-puedo-vinir-esta-noche.ogg,22.-no-puedo-vinir-esta-noche.jpeg,No puedo vinir esta noche.,No puedo venir ésta noche.,Bu akşam gelemem.,I can't come tonight.
 ,23-kale-ke-eskape-mi-echo-en-primero.jpeg,Kale ke eskape mi echo en primero.,Primero tengo que acabar mi trabajo.,Önce işimi bitirmeliyim.,I have to finish my work first.
@@ -90,14 +90,14 @@ audio,filename,Ladino,Español,Türkçe,English
 89-la-madre-de-sara-esta-aparejando-el-ashugar.ogg,89-la-madre-de-sara-esta-aparejando-el-ashugar.jpeg,La madre de Sara le esta aparejando el ashugar.,La madre de Sara esta preparando el ajuar.,Sara'nın annesi çeyizini hazırlıyor.,Sara's mother is preparing her trousseau.
 90-el-padre-de-sara-esta-aparejando-la-dota.ogg,90-el-padre-de-sara-esta-aparejando-la-dota.jpeg,El padre de Sara está aparejando la dota.,El padre de Sara esta preparando los dote.,Sara'nın babası drahomayı hazırlıyor.,Sara's father is preparing the dowry.
 91-sara-i-moshe-estan-enamorados.ogg,91-sara-i-moshe-estan-enamorados.jpeg,Sara i Moshe estan enamorados.,Sara y Moshe están enamorados.,Sara ve Moşe aşıklar.,Sara and Moshe are in love.
-,92-eyos-se-keren-kazar.jpeg,Eyos se keren kazar.,Ellos quieren casarse.,Onlar evlenmek istiyorlar.,They want to get married.
-,93-este-anyo-sara-va-eskapar-la-universidad.jpeg,Este anyo Sara va eskapar la universidad.,Este año Sara terminará la universidad.,Bu yıl Sara üniversiteyi bitirecek.,This year Sara will finish university.
-,94-sara-esta-estudiando-ley.jpeg,Sara esta estudiando ley; se va azer avokata.,Sara está estudiando ley; se va a hacer abogada.,Sara hukuk okuyor; avukat olacak.,Sara is studying law; she will be a lawyer.
-,95-moshe-es-doktor-i-lavora-en-un-ospital.jpeg,Moshe es doktor i lavora en un ospital.,Moshe es médico y trabaja en un hospital.,Moşe doktordur ve bir hastanede çalışır.,Moshe is a doctor and works at a hospital.
-,96-sara-i-moshe-keren-merkar-una-kaza.jpeg,Sara i Moshe keren merkar una kaza.,Sara y Moshe quieren comprar una casa.,Sara ve Moşe bir ev satın almak istiyorlar.,Sara and Moshe want to buy a house.
-,97-eyos-keren-una-kaza-afuera-de-la-sivdad.jpeg,Eyos keren una kaza afuera de la sivdad.,Ellos quieren una casa fuera de la ciudad.,Onlar şehir dışında bir ev istiyorlar.,They want a house in the suburbs.
-,98-en-enverano-sara-i-moshe-se-van-a-buyukada.jpeg,En enverano Sara i Moshe se van a Büyükada.,"En verano, Sara y Moshe se van a Büyükada.",Yazın Sara ile Moşe Büyükada'ya giderler.,"In the summer, Sara and Moshe go to Büyükada."
-,99-eyos-tienen-una-kaza-en-buyukada.jpeg,Eyos tienen una kaza en Büyükada.,Ellos tienen una casa en Büyükada.,Onların Büyükada'da bir evleri var.,They have a house on Büyükada.
+92-eyos-se-keren-kazar.ogg,92-eyos-se-keren-kazar.jpeg,Eyos se keren kazar.,Ellos quieren casarse.,Onlar evlenmek istiyorlar.,They want to get married.
+93-este-anyo-sara-va-eskapar-la-universidad.ogg,93-este-anyo-sara-va-eskapar-la-universidad.jpeg,Este anyo Sara va eskapar la universidad.,Este año Sara terminará la universidad.,Bu yıl Sara üniversiteyi bitirecek.,This year Sara will finish university.
+94-sara-esta-estudiando-ley.ogg,94-sara-esta-estudiando-ley.jpeg,Sara esta estudiando ley; se va azer avokata.,Sara está estudiando ley; se va a hacer abogada.,Sara hukuk okuyor; avukat olacak.,Sara is studying law; she will be a lawyer.
+95-moshe-es-doktor-i-lavora-en-un-ospital.ogg,95-moshe-es-doktor-i-lavora-en-un-ospital.jpeg,Moshe es doktor i lavora en un ospital.,Moshe es médico y trabaja en un hospital.,Moşe doktordur ve bir hastanede çalışır.,Moshe is a doctor and works at a hospital.
+96-sara-i-moshe-keren-merkar-una-kaza.ogg,96-sara-i-moshe-keren-merkar-una-kaza.jpeg,Sara i Moshe keren merkar una kaza.,Sara y Moshe quieren comprar una casa.,Sara ve Moşe bir ev satın almak istiyorlar.,Sara and Moshe want to buy a house.
+97-eyos-keren-una-kaza-afuera-de-la-sivdad.ogg,97-eyos-keren-una-kaza-afuera-de-la-sivdad.jpeg,Eyos keren una kaza afuera de la sivdad.,Ellos quieren una casa fuera de la ciudad.,Onlar şehir dışında bir ev istiyorlar.,They want a house in the suburbs.
+98-en-enverano-sara-i-moshe-se-van-a-büyükada.ogg,98-en-enverano-sara-i-moshe-se-van-a-buyukada.jpeg,En enverano Sara i Moshe se van a Büyükada.,"En verano, Sara y Moshe se van a Büyükada.",Yazın Sara ile Moşe Büyükada'ya giderler.,"In the summer, Sara and Moshe go to Büyükada."
+99-eyos-tienen-una-kaza-en-büyükada.ogg,99-eyos-tienen-una-kaza-en-buyukada.jpeg,Eyos tienen una kaza en Büyükada.,Ellos tienen una casa en Büyükada.,Onların Büyükada'da bir evleri var.,They have a house on Büyükada.
 100-la-kaza-es-chika-ma.ogg,100-la-kaza-es-chika-ma.jpeg,La kaza es chika ma tiene una grande guerta.,La casa es pequeña pero tiene un jardín grande.,Ev küçük ama büyük bir bahçesi var.,The house is small but has a big garden.
 101-kuando-sara-i-moshe-vienen-del-echo.ogg,101-kuando-sara-i-moshe-vienen-del-echo-300x300.jpeg,"Kuando Sara i Moshe vienen del echo, los dos se asentan en la guerta.","Cuando Sara y Moshe viene del trabajo, los dos se sentan en el jardín.","Sara ve Moşe işten döndüğünde, ikisi bahçede otururlar.","When Sara & Moshe return from work, they both sit in the garden."
 102-les-plaze-deskansar-en-el-aver-limpio.ogg,102-les-plaze-deskansar-en-el-aver-limpio.jpeg,Les plaze deskansar en el aver limpio entre las flores.,Les gusta descansar en el aire limpio entre las flores.,Onlar temiz havada ve çiçekler arasında dinlemekten hoşlanırlar.,They like to rest in the clean air amidst the flowers.
