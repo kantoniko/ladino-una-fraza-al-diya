@@ -8,7 +8,7 @@ def ufad():
     filepath = os.path.join(root, filename)
     #print(filepath)
 
-    audios = os.listdir(os.path.join(root, 'audio'))
+    audios = os.listdir(os.path.join(root, 'ogg'))
     #print(audios)
     #audios_lower_case = [name.lower() for name in audios]
     #print(audios_lower_case)
@@ -33,8 +33,12 @@ def ufad():
         for row in rd:
             if row['filename'] == 'EXTRAS':
                 break
+            if row['audio'] is None or row['audio'] == '':
+                continue
             if row['audio'] in audios:
                 entries.append(row)
+            else:
+                raise Exception(row)
             #jpegs.append(row['filename'][0:-5].lower())
             #print(row)
             #row['filename']
