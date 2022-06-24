@@ -10,3 +10,8 @@ Citation and more information: https://arxiv.org/abs/2205.15599
 * Excel file downloaded and exported as csv.
 * Column with list of .ogg files added.
 * There is a a list of [ISSUES](ISSUES.md) with the data.
+
+Una fraza al dia
+Her güne bir cümle
+One sentence a day
+Una frase al día
