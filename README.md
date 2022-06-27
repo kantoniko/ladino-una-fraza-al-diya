@@ -1,4 +1,4 @@
-The content of this repository is published here: https://diksionaryo.szabgab.com/ufad/
+The content of this repository is published here: https://kantoniko.com/ufad/
 
 Source: https://data.sefarad.com.tr/dataset/una-fraza-al-diya-skad
 
