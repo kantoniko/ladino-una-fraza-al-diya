@@ -1,0 +1,1 @@
+python ladino/ufad.py .

@@ -1,11 +1,10 @@
 import csv
 import os
+import sys
 import re
 
-def ufad():
-    filename = 'una-fraze-al-dia_lad-tur-eng-spa.csv'
-    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    filepath = os.path.join(root, filename)
+def ufad(root):
+    filepath = os.path.join(root, 'una-fraze-al-dia_lad-tur-eng-spa.csv')
     #print(filepath)
 
     audios = os.listdir(os.path.join(root, 'ogg'))
@@ -50,5 +49,12 @@ def ufad():
     return(entries)
 
 if __name__ == '__main__':
-    ufad()
+    if len(sys.argv) != 2:
+        exit(f"Usage: {sys.argv[0]} path_to_una-fraza-al-diya")
+    entries = ufad(sys.argv[1])
+
+    assert len(entries) == 295
+    assert entries[0] == {'audio': '1.01-me-esto-ambezando-el-Judeo-Espanyol.ogg', 'filename': '1.01.-me-esto-ambezando-el-judeo-espanyol.jpeg', 'Ladino': 'Me esto ambezando el Judeo-Espanyol.', 'Español': 'Estoy aprendiendo el judeoespañol.', 'Türkçe': 'Judeo-Espanyol öğreniyorum.', 'English': 'I am learning Judeo-Spanish.'}
+    print("Everything is fine")
+    ##print(entries[0])
 

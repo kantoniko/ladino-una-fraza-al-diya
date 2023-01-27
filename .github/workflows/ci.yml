@@ -1,0 +1,56 @@
+name: CI
+
+on:
+  push:
+#  schedule:
+#    - cron: '9 * * * *'
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: Test code
+    steps:
+    - name: Checkout this repo
+      uses: actions/checkout@v3
+      with:
+        path: ladino-una-fraza-al-diya
+
+    - name: Checkout the ladino-diksionaryo-code
+      uses: actions/checkout@v3
+      with:
+        repository: 'kantoniko/ladino-diksionaryo-code'
+        path: ladino-diksionaryo-code
+
+#    - name: Install dependencies
+#      run: |
+#          pip install -r ladino-diksionaryo-code/requirements.txt
+
+    - name: Run tests
+      run: |
+          cd ladino-una-fraza-al-diya
+          ./check.sh
+
+#  generate:
+#    runs-on: ubuntu-latest
+#    name: Generate HTML
+#    needs: [test]
+#
+#    steps:
+#    - name: Generate HTML
+#      env:
+#         PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+#      run: |
+#        curl -X POST \
+#             -H "Authorization: token $PERSONAL_ACCESS_TOKEN" \
+#             -H "Accept: application/vnd.github.v3+json" \
+#             https://api.github.com/repos/kantoniko/kantoniko.github.io/actions/workflows/ci.yml/dispatches \
+#             -d '{"ref":"main"}' | tee out.txt
+#        if [ -s out.txt ]
+#        then
+#            exit 1
+#        else
+#            exit 0
+#        fi
+
+
