@@ -2,6 +2,8 @@ The content of this repository is published here: https://kantoniko.com/ufad/
 
 Source: https://data.sefarad.com.tr/dataset/una-fraza-al-diya-skad
 
+Copyright of the content: Karen Şarhon
+
 License:  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Citation and more information: https://arxiv.org/abs/2205.15599
