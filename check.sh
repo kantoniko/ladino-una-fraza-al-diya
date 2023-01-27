@@ -1,1 +1,1 @@
-python ladino/ufad.py .
+python ../ladino-diksionaryo-code/ladino/ufad.py .
